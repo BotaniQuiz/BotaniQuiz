@@ -11,12 +11,10 @@ class Roleta extends Phaser.Scene {
             value = Phaser.Math.Between(0, 6);
             tempo = this.time.addEvent({ delay: 2000 });
             mostrarPergunta = this.time.addEvent({ delay: 5000 });
-
             rodar = true;
         }, this);
     }
     update() {
-
 
         if (rodar) {
             roleta.angle += 10;
@@ -29,7 +27,7 @@ class Roleta extends Phaser.Scene {
                     rodar = false;
                     tipoPergunta = tipos[value]
                     if (mostrarPergunta.getProgress() === 1) {
-                        this.scene.start('Pergunta');                        
+                        this.scene.start('Pergunta');
                     }
                 }
             }
