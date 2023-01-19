@@ -3,11 +3,21 @@ class Fases extends Phaser.Scene {
         super("Fases");
     }
     create() {
-        const fase1 = this.add.image(400, 650, 'fase1').setInteractive({ cursor: 'pointer' });
-        const fase2 = this.add.image(700, 650, 'fase2').setInteractive({ cursor: 'pointer' });
-        const fase3 = this.add.image(1000, 650, 'fase3').setInteractive({ cursor: 'pointer' });
-        const fase4 = this.add.image(1300, 650, 'fase4').setInteractive({ cursor: 'pointer' });
-        const fase5 = this.add.image(1600, 650, 'fase5').setInteractive({ cursor: 'pointer' });
+        this.add.image(960, 480, 'fundoFases');
+        const fase1 = this.add.image(200, 810, 'fase1').setInteractive({ cursor: 'pointer' });
+        const titulo1 = this.add.image(200, 600, 'fase1_titulo');
+
+        const fase2 = this.add.image(550, 880, 'fase2').setInteractive({ cursor: 'pointer' });
+        const titulo2 = this.add.image(550, 800, 'fase2_titulo');
+
+        const fase3 = this.add.image(850, 840, 'fase3').setInteractive({ cursor: 'pointer' });
+        const titulo3 = this.add.image(880, 700, 'fase3_titulo');
+
+        const fase4 = this.add.image(1150, 680, 'fase4').setInteractive({ cursor: 'pointer' });
+        const titulo4 = this.add.image(1150, 250, 'fase4_titulo');
+
+        const fase5 = this.add.image(1650, 550, 'fase5').setInteractive({ cursor: 'pointer' });
+        const titulo5 = this.add.image(1650, 65, 'fase5_titulo');
 
         fase1.on('pointerdown', function () {
 
