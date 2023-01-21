@@ -11,6 +11,6 @@ var config = {
 
 var game = new Phaser.Game(config);
 var rodar = false;
-var roleta, giro, tempo, value, tipoPergunta, pergunta, mostrarPergunta;
+var roleta, giro, tempo, value, tipoPergunta, pergunta, mostrarPergunta, imagem;
 var angulos = [0, 50, 100, 150, -160, -110, -59];
-var tipos = ['Raiz', 'Semente', 'Caule', 'Flor', 'Folha', 'Extra', 'Fruto']
+var tipos = ['Raiz', 'Semente', 'Caule', 'Flor', 'Folha', 'Extra', 'Fruto'];

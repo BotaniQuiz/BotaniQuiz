@@ -31,27 +31,24 @@ router.get('/perguntas', async (req, res, next) => {
 });
 
 
-async function getAll(name) {
-  const perguntas = await mongoose.connection.db.collection(name).find().toArray();
-  return perguntas;
+async function getAll(collectionName) {
+  const items = await mongoose.connection.db.collection(collectionName).find().toArray();
+  return items;
 }
 
-router.get('/img', (req, res) => {
-  imgModel.find({}, (err, items) => {
-    if (err) {
-      console.log(err);
-      res.status(500).send('An error occurred', err);
-    }
-    else {
-      res.render('imagesPage', { items: items });
-    }
-  });
+//Get Imagem
+router.get('/img', async (req, res) => {
+  console.log(req.query.name);
+  const image = await imgModel.findOne({ name: req.query.name }).exec();
+  // console.log(image);
+  res.status(200).json(image);
 });
 
+//Upload Imagem
 router.post('/img', upload.array('image', 64), (req, res, next) => {
   console.log(req.files);
-  req.files.forEach(element => {   
-    console.log(element); 
+  req.files.forEach(element => {
+    console.log(element);
     const obj = {
       name: element.originalname.replace('.jpg', '').replace('.png', ''),
       img: {
