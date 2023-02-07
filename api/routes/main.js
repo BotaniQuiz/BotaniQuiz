@@ -36,42 +36,4 @@ async function getAll(collectionName) {
   return items;
 }
 
-//Get Imagem
-router.get('/img', async (req, res) => {
-  console.log(req.query.name);
-  const image = await imgModel.findOne({ name: req.query.name }).exec();
-  // console.log(image);
-  res.status(200).json(image);
-});
-
-//Upload Imagem
-router.post('/img', upload.array('image', 64), (req, res, next) => {
-  console.log(req.files);
-  req.files.forEach(element => {
-    console.log(element);
-    const obj = {
-      name: element.originalname.replace('.jpg', '').replace('.png', ''),
-      img: {
-        data: fs.readFileSync(path.join(process.cwd() + '/uploads/' + element.filename)),
-        contentType: 'image/png'
-      }
-    }
-    imgModel.create(obj, (err, item) => {
-      if (err) {
-        console.log(err);
-      }
-      else {
-        // Atualmente o upload de imagens funciona mas não envia resposta, futuramente 
-        //se necessário pode ser implementada essa melhoria.
-        item.save();
-        // Linhas abaixo de resposta da api causam erro e parada do upload necessário pensar numa maneira 
-        // melhor de fazer isso
-        // res.status(200);
-        // res.json({message: 'Upload com sucesso'});
-        // res.redirect('/');
-      }
-    });
-  });
-});
-
 module.exports = router;
