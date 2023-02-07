@@ -1,0 +1,106 @@
+[
+    {
+        "_id": "634d965b4974ef16da2fe170",
+        "pergunta": "Quais são as funções dos caules para as plantas?",
+        "correta": "Suporte e reserva de nutrientes",
+        "incorreta1": "Absorver água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Reprodução sexuada"
+    },
+    {
+        "_id": "634d965b4974ef16da2fe171",
+        "pergunta": "Quais alimentos abaixo são caules?",
+        "correta": "Batata inglesa e cebola",
+        "incorreta1": "Abacate e brócolis",
+        "incorreta2": "Batata doce e abobrinha",
+        "incorreta3": "Pimentão e banana"
+    },
+    {
+        "_id": "634d965b4974ef16da2fe172",
+        "pergunta": "Que função não é desenvolvida pelos caules?",
+        "correta": "Atração de polinizadores",
+        "incorreta1": "Condução de seiva",
+        "incorreta2": "Reserva de nutrientes",
+        "incorreta3": "Sustentação do vegetal"
+    },
+    {
+        "_id": "634d965b4974ef16da2fe173",
+        "pergunta": "Como identificar um caule?",
+        "correta": "Pela divisão em nós e entrenós",
+        "incorreta1": "Pela cor e textura",
+        "incorreta2": "Pelo formato e tamanho",
+        "incorreta3": "Pela presença de casca e espinhos"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb92",
+        "imagem": "gengibre",
+        "pergunta": "Para que podemos utilizar os caules do gengibre?",
+        "correta": "Todas as respostas acima",
+        "incorreta1": "Alimento",
+        "incorreta2": "Condimento",
+        "incorreta3": "Uso medicinal"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb93",
+        "imagem": "cebola",
+        "pergunta": "Cebolas são um tipo especializado de caule. Qual seria ele?",
+        "correta": "Bulbo",
+        "incorreta1": "Rizoma",
+        "incorreta2": "Tubérculo ",
+        "incorreta3": "Estipe"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb94",
+        "imagem": "alho",
+        "pergunta": "O alho, muito utilizado na culinária é um caule do tipo bulbo. Qual a principal função deste tipo de caule para as plantas?",
+        "correta": "Reserva de nutrientes",
+        "incorreta1": "Absorção de água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Reprodução sexuada"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb95",
+        "imagem": "acafrao_terra",
+        "pergunta": "Os caules do açafrão da terra são muito utilizados na culinária e são conhecidos também como cúrcuma. Qual a classificação desse tipo de caule?",
+        "correta": "Rizoma",
+        "incorreta1": "Tubérculo ",
+        "incorreta2": "Bulbo",
+        "incorreta3": "Estipe"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb96",
+        "imagem": "batata_inglesa",
+        "pergunta": "A batata inglesa é um tipo de caule. Qual seria sua classificação?",
+        "correta": "Tubérculo",
+        "incorreta1": "Rizona",
+        "incorreta2": "Estipe ",
+        "incorreta3": "Tronco"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb97",
+        "imagem": "cana",
+        "pergunta": "A cana de açúcar é uma das principais fontes do açúcar que usamos na culinária. Que outro produto pode ser obtido a partir dela?",
+        "correta": "Etanol",
+        "incorreta1": "Amido",
+        "incorreta2": "Madeira",
+        "incorreta3": "Óleo vegetal "
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb98",
+        "imagem": "bambu",
+        "pergunta": "Como podem ser utilizados os caules do tipo colmo dos bambus?",
+        "correta": "Todas as respostas acima",
+        "incorreta1": "Construção civil",
+        "incorreta2": "Artesanato",
+        "incorreta3": "Produção de fibras"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb99",
+        "imagem": "arvore_gimnosperma",
+        "pergunta": "As árvores dos grupos das Angiospermas e Gimnospermas tem caules do tipo:",
+        "correta": "Tronco",
+        "incorreta1": "Rizoma",
+        "incorreta2": "Estipe ",
+        "incorreta3": "Bulbo"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "_id": "634d97264974ef16da2fe190",
+        "pergunta": "Quais são as funções dos frutos para as plantas?",
+        "correta": "Proteger as sementes e auxiliar em sua dispersão",
+        "incorreta1": "Fixação da planta",
+        "incorreta2": "Suporte e reserva de nutrientes",
+        "incorreta3": "Fotossíntese"
+    },
+    {
+        "_id": "634d97264974ef16da2fe191",
+        "pergunta": "Quais alimentos abaixo são frutos?",
+        "correta": "Tomate e quiabo",
+        "incorreta1": "Mandioquinha e salsa",
+        "incorreta2": "Feijão e alho",
+        "incorreta3": "Couve e cebolinha"
+    },
+    {
+        "_id": "634d97264974ef16da2fe192",
+        "pergunta": "Qual a correlação correta sobre a classificação de frutos?",
+        "correta": "Amora - infrutescência",
+        "incorreta1": "Abacaxi – Fruto complexo",
+        "incorreta2": "Vagem – fruto simples carnoso",
+        "incorreta3": "Manga – fruto simples carnoso"
+    },
+    {
+        "_id": "634d97264974ef16da2fe193",
+        "pergunta": "Que parte da flor basicamente forma o fruto?",
+        "correta": "Ovário",
+        "incorreta1": "Pétala",
+        "incorreta2": "Sépala",
+        "incorreta3": "Estame"
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebcd",
+        "imagem": "abacaxi",
+        "pergunta": "Que parte da planta dá origem ao abacaxi?",
+        "correta": "Flores de uma inflorescência",
+        "incorreta1": "Folha",
+        "incorreta2": "Raiz ",
+        "incorreta3": "Caule "
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebce",
+        "imagem": "caju",
+        "pergunta": "Qual a origem da parte suculenta do caju?",
+        "correta": "Pedicelo da flor",
+        "incorreta1": "Semente ",
+        "incorreta2": "Ovário ",
+        "incorreta3": "Folha "
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebcf",
+        "imagem": "morango",
+        "pergunta": "Qual a origem da parte comestível do morango?",
+        "correta": "Receptáculo da flor",
+        "incorreta1": "Pétalas",
+        "incorreta2": "Ovários",
+        "incorreta3": "Folhas"
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebd0",
+        "imagem": "ervilha",
+        "pergunta": "A ervilha torta é o legume (fruto de uma leguminosa) e a ervilha é a sua semente. São ricas em muitos nutrientes, mas uma das principais fontes das vitaminas?",
+        "correta": "Complexo B",
+        "incorreta1": "C",
+        "incorreta2": "A",
+        "incorreta3": "K"
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebd1",
+        "imagem": "banana_prata",
+        "pergunta": "Sobre as bananas, qual a alternativa correta?",
+        "correta": "São originárias da Ásia e crescem em cachos de bananeiras",
+        "incorreta1": "São originárias do Brasil e crescem em plantas trepadeiras",
+        "incorreta2": "São originárias do Canadá e crescem em plantas rasteiras",
+        "incorreta3": "São originárias da Europa e crescem em árvores"
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebd2",
+        "imagem": "quiabo",
+        "pergunta": "O quiabo é um fruto comestível de origem africana. Como ele deve ser consumido?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Cozido ou ensopado",
+        "incorreta2": "Refogado",
+        "incorreta3": "Assado"
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebd3",
+        "imagem": "abobora_baiana",
+        "pergunta": "Os frutos da abóbora são consumidos de diferentes formas. Que outra parte das abóboras constitui uma iguaria culinária?",
+        "correta": "Flores  ",
+        "incorreta1": "Folhas",
+        "incorreta2": "Caules",
+        "incorreta3": "Raízes"
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebd4",
+        "imagem": "abobrinha_italiana",
+        "pergunta": "A abobrinha é um fruto bastante consumido de diferentes formas. Qual seria a melhor forma de preparo?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Cozida ou ensopada",
+        "incorreta2": "Crua ou grelhada",
+        "incorreta3": "Assada ou em sopas"
+    },
+    {
+        "_id": "6391f63d074ee6e28891ebd5",
+        "pergunta": "Das ervilhas podemos comer as sementes e os frutos. As sementes podem ser secas, congeladas ou em conserva, mas, os frutos são geralmente consumidos frescos. Que tipo de fruto as ervilhas têm?",
+        "correta": "Legumes como as vagens",
+        "incorreta1": "Bagas como as uvas",
+        "incorreta2": "Drupas como os pêssegos",
+        "incorreta3": "Aquênios como os girassóis"
+    }
+]
