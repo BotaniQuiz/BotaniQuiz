@@ -29,7 +29,6 @@ class Pergunta extends Phaser.Scene {
         }
 
         perguntasRespondidas.push(tipoPergunta + value);
-        console.log(tipoPergunta);
         that.load.image('fundoPergunta', `assets/img/${tipoPergunta}Fundo.png`);
 
         if (pergunta.imagem) {
@@ -67,23 +66,37 @@ class Pergunta extends Phaser.Scene {
         }
         posicoes = posicoesShuffled;
 
-        //Pergunta
-        const perguntaText = this.make.text({
-            x: 960,
-            y: 130,
-            text: pergunta.pergunta,
-            origin: { x: 0.5, y: 0.5 },
-            style: {
-                fontFamily: 'GaretBook', fontSize: 60, backgroundColor: '#fff', color: '#000', align: 'center',
-                wordWrap: { width: 1600 }
-            }
-        });
-
         let textPadding = [];
-        textPadding.push({ left: (1600 - perguntaText.getBounds().width) / 2, right: (1600 - perguntaText.getBounds().width) / 2, top: (230 - perguntaText.getBounds().height) / 2, bottom: (230 - perguntaText.getBounds().height) / 2 });
-        perguntaText.setPadding(textPadding[0]);
-
-
+        //Pergunta
+        // Aumenta o espaço para a pergunta se for grande
+        if (pergunta.pergunta.length > 140) {
+            var perguntaText = this.make.text({
+                x: 960,
+                y: 130,
+                text: pergunta.pergunta,
+                origin: { x: 0.5, y: 0.5 },
+                style: {
+                    fontFamily: 'GaretBook', fontSize: 40, backgroundColor: '#fff', color: '#000', align: 'center',
+                    wordWrap: { width: 1900 }
+                }
+            });
+            textPadding.push({ left: (1900 - perguntaText.getBounds().width) / 2, right: (1900 - perguntaText.getBounds().width) / 2, top: (230 - perguntaText.getBounds().height) / 2, bottom: (230 - perguntaText.getBounds().height) / 2 });
+            perguntaText.setPadding(textPadding[0]);
+        }
+        else {
+            var perguntaText = this.make.text({
+                x: 960,
+                y: 130,
+                text: pergunta.pergunta,
+                origin: { x: 0.5, y: 0.5 },
+                style: {
+                    fontFamily: 'GaretBook', fontSize: 60, backgroundColor: '#fff', color: '#000', align: 'center',
+                    wordWrap: { width: 1600 }
+                }
+            });
+            textPadding.push({ left: (1600 - perguntaText.getBounds().width) / 2, right: (1600 - perguntaText.getBounds().width) / 2, top: (230 - perguntaText.getBounds().height) / 2, bottom: (230 - perguntaText.getBounds().height) / 2 });
+            perguntaText.setPadding(textPadding[0]);
+        }
         //Opção 1
         const correta = this.make.text({
             x: posicoes[0].x,
@@ -144,6 +157,8 @@ class Pergunta extends Phaser.Scene {
         textPadding.push({ left: (800 - incorreta3.getBounds().width) / 2, right: (800 - incorreta3.getBounds().width) / 2, top: (100 - incorreta3.getBounds().height) / 2, bottom: (100 - incorreta3.getBounds().height) / 2 });
         incorreta3.setPadding(textPadding[4]);
 
+
+        //Criação de imagens de vitoria
         const vitoriaFundo = this.add.image(960, 480, 'vitoriaFundo').setScale(1.5);
         const homeBtn = this.add.image(900, 720, 'homeBtn').setInteractive({ cursor: 'pointer' });
         const setaBtn = this.add.image(1020, 720, 'setaBtn').setInteractive({ cursor: 'pointer' });
@@ -151,6 +166,7 @@ class Pergunta extends Phaser.Scene {
         setaBtn.visible = false;
         homeBtn.visible = false;
 
+        //Criação de imagens de derrota
         const derrotaFundo = this.add.image(960, 480, 'derrotaFundo').setScale(1.5);
         const restartBtn = this.add.image(1020, 720, 'restartBtn').setInteractive({ cursor: 'pointer' });
         derrotaFundo.visible = false;
@@ -182,9 +198,8 @@ class Pergunta extends Phaser.Scene {
         }, this);
 
         setaBtn.on('pointerdown', function () {
-            this.scene.start('Fases');
+            setaLink();
         }, this);
-
 
         var that = this;
 
@@ -202,38 +217,84 @@ class Pergunta extends Phaser.Scene {
         }
 
         function vitoria() {
-            vitoriaFundo.visible = true;
-            setaBtn.visible = true;
-            homeBtn.visible = true;
-            that.children.bringToTop(vitoriaFundo);
-            that.children.bringToTop(setaBtn);
-            that.children.bringToTop(homeBtn);
-            correta.disableInteractive();
-            incorreta1.disableInteractive();
-            incorreta2.disableInteractive();
-            incorreta3.disableInteractive();
-
-
-            if (faseAtual === 'Fase1') fase1Concluida = true;
+            if (faseAtual === 'Fase1') {
+                showVitoria();
+                fase1Concluida = true;
+            }
 
             else if (faseAtual === 'Fase2') {
+                showVitoria();
                 perguntasCertasFase2++;
                 if (fase2Concluida === false && perguntasCertasFase2 === 2) fase2Concluida = true;
             }
 
             else if (faseAtual === 'Fase3') {
+                showVitoria();
                 perguntasCertasFase3++;
                 if (fase3Concluida === false && perguntasCertasFase3 === 3) fase3Concluida = true;
             }
 
             else if (faseAtual === 'Fase4') {
+                showVitoria();
                 perguntasCertasFase4++;
                 if (fase4Concluida === false && perguntasCertasFase4 === 4) fase4Concluida = true;
             }
 
             else if (faseAtual === 'Fase5') {
                 perguntasCertasFase5++;
-                if (fase5Concluida === false && perguntasCertasFase5 === 5) fase5Concluida = true;
+                if (fase5Concluida === false && perguntasCertasFase5 === 5) {
+                    fase5Concluida = true;
+                    showVitoriaFinal();
+                }
+                else showVitoria();
+            }
+
+            correta.disableInteractive();
+            incorreta1.disableInteractive();
+            incorreta2.disableInteractive();
+            incorreta3.disableInteractive();
+        }
+
+        function showVitoria() {
+            vitoriaFundo.visible = true;
+            setaBtn.visible = true;
+            homeBtn.visible = true;
+            that.children.bringToTop(vitoriaFundo);
+            that.children.bringToTop(setaBtn);
+            that.children.bringToTop(homeBtn);
+        }
+
+        function showVitoriaFinal() {
+            // vitoriaFundo.visible = true;
+            // setaBtn.visible = true;
+            // homeBtn.visible = true;
+            // that.children.bringToTop(vitoriaFundo);
+            // that.children.bringToTop(setaBtn);
+            // that.children.bringToTop(homeBtn);
+        }
+
+        function setaLink() {
+            //Checa se completou a fase atual, se sim botão redireciona para a tela de fases, se não redireciona para a roleta
+            if (faseAtual === 'Fase1') that.scene.start('Fases');
+
+            else if (faseAtual === 'Fase2') {
+                if (fase2Concluida === true) that.scene.start('Fases');
+                else that.scene.start('Roleta');
+            }
+
+            else if (faseAtual === 'Fase3') {
+                if (fase3Concluida === true) that.scene.start('Fases');
+                else that.scene.start('Roleta');
+            }
+
+            else if (faseAtual === 'Fase4') {
+                if (fase4Concluida === true) that.scene.start('Fases');
+                else that.scene.start('Roleta');
+            }
+
+            else if (faseAtual === 'Fase5') {
+                if (fase5Concluida === true) that.scene.start('Fases');
+                else that.scene.start('Roleta');
             }
         }
     }
