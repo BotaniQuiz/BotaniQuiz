@@ -4,4 +4,5 @@ O jogo pode ser jogado de modo digital na WEB ou forma física, baseado em carta
 
 
 Coordenadores: Mariana Souza (PPG-CiAC – NUPEM-UFRJ) e Prof. Sérgio Serra (PET-SI – PPGAO- PPGIHD UFRRJ e PPGI-UFRJ).
+
 Colaboradores: Profa. Ana Vieira (LabFBot – FF/UFRJ), Profa. Tatiana Ungaretti Paleo Konno (NUPEM/UFRJ),  Thiago Siqueira (PET-SI e Sistemas de Informação - UFRRJ), Gabriel Madureira (PET-SI e Sistemas de Informação - UFRRJ), Pedro Vieira (Engenheiro agrônomo – UFRRJ -  USP) e  Ana Paula Ribeiro (Farmacêutica – UFRJ).
