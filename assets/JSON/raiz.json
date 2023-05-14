@@ -1,0 +1,109 @@
+[
+    {
+        "imagem": "raiz_orquidea",
+        "pergunta": "As raízes de orquídeas são aéreas e podem extrair água do vapor atmosférico graças a que tipo de estrutura?",
+        "correta": "Velame",
+        "incorreta1": "Parênquima",
+        "incorreta2": "Periderme",
+        "incorreta3": "Estômatos"
+    },
+    {
+        "pergunta": "Qual dos tipos de raézes é um exemplo de raiz subterrânea?",
+        "correta": "Tuberosa",
+        "incorreta1": "Geampiforme",
+        "incorreta2": "escora",
+        "incorreta3": "Tabular"
+    },
+    {
+        "pergunta": "Quais são as funções das raízes para as plantas?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Absorver água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Reserva de nutrientes"
+    },
+    {
+        "pergunta": "Qual alimento abaixo é uma raiz?",
+        "correta": "Cenoura",
+        "incorreta1": "Abóbora",
+        "incorreta2": "Cebola",
+        "incorreta3": "Vagem"
+    },
+    {
+        "pergunta": "Sobre as raízes, assinale a resposta correta:",
+        "correta": "Há raízes que servem como alimentos e como medicamentos.",
+        "incorreta1": "Todas as raízes crescem embaixo do solo.",
+        "incorreta2": "As raízes não têm utilidade para os seres humanos.",
+        "incorreta3": "Raízes são sempre ramificadas e longas."
+    },
+    {
+        "pergunta": "Assinale o tipo de raiz que se desenvolve de forma aérea:",
+        "correta": "Grampiforme – como na unha de gato",
+        "incorreta1": "Pivotante tuberosa – como na cenoura",
+        "incorreta2": "Lateral tuberosa – como no aipim",
+        "incorreta3": "Fasciculada – como na cebolinha"
+    },
+    {
+        "imagem": "cenoura",
+        "pergunta": "Que tipo de raíz é a cenoura?",
+        "correta": "Raiz tuberosa",
+        "incorreta1": "Raiz aérea",
+        "incorreta2": "Raiz fasciculada ",
+        "incorreta3": "Raiz adventicia"
+    },
+    {
+        "imagem": "aipim",
+        "pergunta": "Que produtos podem ser obtidos a partir das raízes do aipim, também conhecido como mandioca?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Farinha ",
+        "incorreta2": "Tapioca ",
+        "incorreta3": "Raízes cozidas"
+    },
+    {
+        "imagem": "batata_doce",
+        "pergunta": "Qual é a principal função das raízes de batata doce para a planta?",
+        "correta": "Reserva de nutrientes",
+        "incorreta1": "Fotossíntese",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Reprodução sexuada"
+    },
+    {
+        "imagem": "mandioquinha",
+        "pergunta": "As raízes de mandioquinha, também conhecidas como batata baroa ou batata salsa, são muito nutritivas e bstante usadas na alimentação humana. Mas, que tipo de raiz elas são?",
+        "correta": "raiz lateral tuberosa",
+        "incorreta1": "Raiz aérea",
+        "incorreta2": "Raiz fasciculada ",
+        "incorreta3": "Raiz tabular"
+    },
+    {
+        "imagem": "rabanete",
+        "pergunta": "Os rabanetes são raízes comestíveis. Que outra parte destes vegetais é também rica em nutrientes e deve ser consumida como alimento?",
+        "correta": "Folha",
+        "incorreta1": "Caule",
+        "incorreta2": "Flores",
+        "incorreta3": "Frutos"
+    },
+    {
+        "imagem": "raiz_cebolinha",
+        "pergunta": "Cebolinhas são bem conhecidas e usadas como tempero em diferentes pratos. Mas, como devemos classificar suas raízes?",
+        "correta": "Raiz fasciculada",
+        "incorreta1": "Raiz tuberosa",
+        "incorreta2": "Raiz pivotante",
+        "incorreta3": "Raiz aérea"
+    },
+    {
+        "imagem": "jacatupe",
+        "pergunta": "As raízes de Jacatupé são consideradas um bom exemplo de raízes comestíveis. Que outras raízes fazem parte de nossa alimentação?",
+        "correta": "Aipim e batata doce",
+        "incorreta1": "Manga e gengibre",
+        "incorreta2": "Palmito e milho",
+        "incorreta3": "Batata inglesa e repolho"
+    },
+    {
+        "imagem": "ginseng",
+        "pergunta": "O ginseng é uma raiz com uso na medicina tradicional chinesa e coreana e é indicado para?",
+        "correta": "Cansaço físico e baixa imunidade",
+        "incorreta1": "Febre e dores de cabeça",
+        "incorreta2": "Rouquidão e tosse",
+        "incorreta3": "Dores abdominais e gases"
+    }
+]

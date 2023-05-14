@@ -1,0 +1,138 @@
+[
+    {
+        "imagem": "louro",
+        "pergunta": "O louro é um condimento usado para temperar diferentes pratos como feijão e carnes. Que parte da planta empregamos com essa finalidade?",
+        "correta": "Folha",
+        "incorreta1": "Flor",
+        "incorreta2": "Caule",
+        "incorreta3": "Raiz"
+    },
+    {
+        "imagem": "oregano",
+        "pergunta": "Quais as principais características que as folhas de orégano trazem a uma receita?",
+        "correta": "Aroma e sabor",
+        "incorreta1": "Cor e amargor",
+        "incorreta2": "Sabor e cor",
+        "incorreta3": "Ardência e aroma"
+    },
+    {
+        "pergunta": "Quais são as funções das folhas para as plantas?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Trocas gasosas",
+        "incorreta2": "Fotossíntese",
+        "incorreta3": "Condução de água e nutrientes"
+    },
+    {
+        "pergunta": "Que partes formam uma folha completa?",
+        "correta": "Limbo, pecíolo e bainha ou estípula",
+        "incorreta1": "Lâmina foliar e bainha",
+        "incorreta2": "Pedicelo e entrenós",
+        "incorreta3": "Cálice, coifa e corola"
+    },
+    {
+        "pergunta": "Que alimentos abaixo são formados por folhas?",
+        "correta": "Repolhos e alfaces",
+        "incorreta1": "Aipim e rúcula",
+        "incorreta2": "Couve e abóbora",
+        "incorreta3": "Brócolis e aspargos"
+    },
+    {
+        "pergunta": "Para que as folhas são usadas por seres humanos?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Ornamentação e paisagismo",
+        "incorreta2": "Produção de medicamentos e cosméticos",
+        "incorreta3": "Alimentação e nutrição humana"
+    },
+    {
+        "imagem": "capim_limao",
+        "pergunta": "O capim limão é comumente utilizado com quais finalidades?",
+        "correta": "Medicinal e Cosmética ",
+        "incorreta1": "Ornamental",
+        "incorreta2": "Alimentação de animais ",
+        "incorreta3": "É tóxico e não deve ter contato com seres vivos "
+    },
+    {
+        "imagem": "espinafre",
+        "pergunta": "O espinafre ficou famoso por conta de um desenho animado em que o personagem principal comia as folhas e ficava forte para vencer o vilão, que desenho é esse?",
+        "correta": "Popeye",
+        "incorreta1": "Olivia Palito",
+        "incorreta2": "Pica pau ",
+        "incorreta3": "Os três patetas "
+    },
+    {
+        "imagem": "agriao",
+        "pergunta": "Vegetais de folhas verde escuras, como o agrião, são as melhores fontes de que nutriente?",
+        "correta": "Ferro",
+        "incorreta1": "Proteínas",
+        "incorreta2": "Água ",
+        "incorreta3": "Sais minerais "
+    },
+    {
+        "imagem": "couve",
+        "pergunta": "Quando vamos ao supermercado e procuramos pela couve, em que seção devemos busca-la? ",
+        "correta": "Hortaliças folhosas",
+        "incorreta1": "Frutas",
+        "incorreta2": "Legumes ",
+        "incorreta3": "Raízes "
+    },
+    {
+        "imagem": "boldo_brasileiro",
+        "pergunta": "As folhas do boldo brasileiro são muito aromáticas e usadas para o tratamento de que tipo de problemas de saúde?",
+        "correta": "Problemas digestivos ",
+        "incorreta1": "Asma",
+        "incorreta2": "Tosse",
+        "incorreta3": "Febre"
+    },
+    {
+        "imagem": "hortela",
+        "pergunta": "Hortelã é uma planta muito versátil. Suas folhas podem ser usadas para que finalidades?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Medicinal",
+        "incorreta2": "Alimento ",
+        "incorreta3": "Condimento"
+    },
+    {
+        "imagem": "bertalha",
+        "pergunta": "Em alguns lugares as folhas de bertalha são consideradas comuns e em outros uma planta não convencional. Como devemos consumir esse alimento tão rico em nutrientes?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Refogado",
+        "incorreta2": "Cozido e em sopas",
+        "incorreta3": "Acompanhando ovos pochê"
+    },
+    {
+        "imagem": "rucula",
+        "pergunta": "Que característica encontramos nas folhas de rúcula?",
+        "correta": "Amargor",
+        "incorreta1": "Muitos pelos ",
+        "incorreta2": "Aspereza",
+        "incorreta3": "Cheiro adocicado"
+    },
+    {
+        "pergunta": "As folhas de couve são alimentos importantes, mas, qual a função das folhas para as plantas",
+        "correta": "Fotossíntese",
+        "incorreta1": "Absorver água e nutrientes ",
+        "incorreta2": "Fixação da plantas",
+        "incorreta3": "Reserva de nutrientes"
+    },
+    {
+        "pergunta": "As folhas e caules do agrião podem ser consumidos de que forma?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Crus em salada",
+        "incorreta2": "Refogados",
+        "incorreta3": "No preparo de xaropes"
+    },
+    {
+        "pergunta": "Folhas de espinafre são muito ricas em?",
+        "correta": "Ferro",
+        "incorreta1": "Gordura",
+        "incorreta2": "Proteínas",
+        "incorreta3": "Colesterol"
+    },
+    {
+        "pergunta": "As folhas de capim limão são muito aromáticas e podem ser usadas de que forma?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Para o preparo de infusão (chá)",
+        "incorreta2": "Para o preparo de coquetéis e outras bebidas",
+        "incorreta3": "Na composição de fitoterápicos"
+    }
+]

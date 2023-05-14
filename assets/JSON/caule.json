@@ -1,0 +1,111 @@
+[
+    {
+        "imagem": "cebola",
+        "pergunta": "Assinale a alternativa correta sobre os caules do tipo bulbo que utilizamos das cebolas.",
+        "correta": "Os bulbos são órgãos de armazenamento de nutrientes.",
+        "incorreta1": "Os bulbos são um exemplo de caule aéreo.",
+        "incorreta2": "As camadas que formam o bulbo das cebolas são raízes modificadas.",
+        "incorreta3": "Os bulbos são responsáveis pela fotossíntese."
+    },
+    {
+        "imagem": "inhame",
+        "pergunta": "Os inhames são classificados como tubérculos, um tipo de caule subterrâneo. Que outra planta apresenta esse tipo de caule?",
+        "correta": "Batata inglesa",
+        "incorreta1": "Abacateiro",
+        "incorreta2": "Cana de açúcar",
+        "incorreta3": "Aboboreira"
+    },
+    {
+        "pergunta": "Quais são as funções dos caules para as plantas?",
+        "correta": "Suporte e reserva de nutrientes",
+        "incorreta1": "Absorver água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Reprodução sexuada"
+    },
+    {
+        "pergunta": "Quais alimentos abaixo são caules?",
+        "correta": "Batata inglesa e cebola",
+        "incorreta1": "Abacate e brócolis",
+        "incorreta2": "Batata doce e abobrinha",
+        "incorreta3": "Pimentão e banana"
+    },
+    {
+        "pergunta": "Que função não é desenvolvida pelos caules?",
+        "correta": "Atração de polinizadores",
+        "incorreta1": "Condução de seiva",
+        "incorreta2": "Reserva de nutrientes",
+        "incorreta3": "Sustentação do vegetal"
+    },
+    {
+        "pergunta": "Como identificar um caule?",
+        "correta": "Pela divisão em nós e entrenós",
+        "incorreta1": "Pela cor e textura",
+        "incorreta2": "Pelo formato e tamanho",
+        "incorreta3": "Pela presença de casca e espinhos"
+    },
+    {
+        "imagem": "gengibre",
+        "pergunta": "Para que podemos utilizar os caules do gengibre?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Alimento",
+        "incorreta2": "Condimento",
+        "incorreta3": "Uso medicinal"
+    },
+    {
+        "imagem": "cebola",
+        "pergunta": "Cebolas são um tipo especializado de caule. Qual seria ele?",
+        "correta": "Bulbo",
+        "incorreta1": "Rizoma",
+        "incorreta2": "Tubérculo ",
+        "incorreta3": "Estipe"
+    },
+    {
+        "imagem": "alho",
+        "pergunta": "O alho, muito utilizado na culinária é um caule do tipo bulbo. Qual a principal função deste tipo de caule para as plantas?",
+        "correta": "Reserva de nutrientes",
+        "incorreta1": "Absorção de água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Reprodução sexuada"
+    },
+    {
+        "_id": "6391f55b074ee6e28891eb95",
+        "imagem": "acafrao_terra",
+        "pergunta": "Os caules do açafrão da terra são muito utilizados na culinária e são conhecidos também como cúrcuma. Qual a classificação desse tipo de caule?",
+        "correta": "Rizoma",
+        "incorreta1": "Tubérculo ",
+        "incorreta2": "Bulbo",
+        "incorreta3": "Estipe"
+    },
+    {
+        "imagem": "batata_inglesa",
+        "pergunta": "A batata inglesa é um tipo de caule. Qual seria sua classificação?",
+        "correta": "Tubérculo",
+        "incorreta1": "Rizona",
+        "incorreta2": "Estipe ",
+        "incorreta3": "Tronco"
+    },
+    {
+        "imagem": "cana",
+        "pergunta": "A cana de açúcar é uma das principais fontes do açúcar que usamos na culinária. Que outro produto pode ser obtido a partir dela?",
+        "correta": "Etanol",
+        "incorreta1": "Amido",
+        "incorreta2": "Madeira",
+        "incorreta3": "Óleo vegetal "
+    },
+    {
+        "imagem": "bambu",
+        "pergunta": "Como podem ser utilizados os caules do tipo colmo dos bambus?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Construção civil",
+        "incorreta2": "Artesanato",
+        "incorreta3": "Produção de fibras"
+    },
+    {
+        "imagem": "arvore_gimnosperma",
+        "pergunta": "As árvores dos grupos das Angiospermas e Gimnospermas tem caules do tipo:",
+        "correta": "Tronco",
+        "incorreta1": "Rizoma",
+        "incorreta2": "Estipe ",
+        "incorreta3": "Bulbo"
+    }
+]

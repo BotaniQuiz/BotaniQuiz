@@ -1,0 +1,123 @@
+[
+    {
+        "imagem": "dente_leao",
+        "pergunta": "As folhas e raízes do dente de leão tem uso medicinal como depurativas, mas, que outra parte é comestível?",
+        "correta": "Flores",
+        "incorreta1": "Sementes",
+        "incorreta2": "Caules",
+        "incorreta3": "Frutos"
+    },
+    {
+        "pergunta": "As folhas de vinagreira são consumidas como verdura, mas que outra parte da planta é usada para produzir o chá de hibisco?",
+        "correta": "Partes da flor",
+        "incorreta1": "Raiz e caule",
+        "incorreta2": "Caule e frutos",
+        "incorreta3": "Sementes"
+    },
+    {
+        "pergunta": "Quais é a função das flores para as plantas?",
+        "correta": "Reprodução sexuada",
+        "incorreta1": "Absorver água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Reserva de nutrientes"
+    },
+    {
+        "pergunta": "Qual das partes NÃO pertence a uma flor?",
+        "correta": "Coifa",
+        "incorreta1": "Pétalas",
+        "incorreta2": "Estames",
+        "incorreta3": "Cálice"
+    },
+    {
+        "pergunta": "Quem pode visitar e polinizar uma flor?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Morcego",
+        "incorreta2": "Abelha",
+        "incorreta3": "Borboleta"
+    },
+    {
+        "pergunta": "Para que as flores são usadas por seres humanos?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Ornamentação e paisagismo",
+        "incorreta2": "Produção de medicamentos e cosméticos",
+        "incorreta3": "Alimentação e nutrição humana"
+    },
+    {
+        "imagem": "cravo_india",
+        "pergunta": "O cravo-da-Índia é uma especíaria utilizada desde o tempo das grandes navegações. Suas flores são muito utilizadas,principalmente para?",
+        "correta": "Culinária e medicinal",
+        "incorreta1": "Ornamentação e paisagismo",
+        "incorreta2": "Umidificar o ar ",
+        "incorreta3": "Não é uma flor"
+    },
+    {
+        "imagem": "capuchinha",
+        "pergunta": "A capuchinha é uma planta \"Mil e uma utilidades\", marque a opção que apresente suas formas de uso.",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "PANC - Planta Alimentícia Não Convencional ",
+        "incorreta2": "Ornamentação ",
+        "incorreta3": "Medicinal "
+    },
+    {
+        "imagem": "brocolis_2",
+        "pergunta": "O brócolis é classificado como uma inflorescência, mas o que é uma inflorescência?",
+        "correta": "Conjunto de flores organizados em um mesmo eixo da planta ",
+        "incorreta1": "Flor única de um vegetal ",
+        "incorreta2": "São todas as flores de todos os eixos da planta",
+        "incorreta3": "São as flores móveis de uma planta"
+    },
+    {
+        "imagem": "couve_flor_2",
+        "pergunta": "Qual a principal parte da couve-flor consumimos?",
+        "correta": "Inflorescência",
+        "incorreta1": "Flor  ",
+        "incorreta2": "Ramos ",
+        "incorreta3": "Caule"
+    },
+    {
+        "imagem": "alcachofra",
+        "pergunta": "As inflorescências de alcachofra são comestíveis e fazem parte da culinária italiana. Que outra parte da planta é utilizada, desta vez, com uso medicinal?",
+        "correta": "Folhas",
+        "incorreta1": "Raízes",
+        "incorreta2": "Sementes",
+        "incorreta3": "Caule"
+    },
+    {
+        "imagem": "cabelo_milho",
+        "pergunta": "As estruturas conhecidas como cabelos de milho são partes das flores femininas utilizadas na medicina popular para tratamento de qual sistema?",
+        "correta": "Urinário",
+        "incorreta1": "Digestivo",
+        "incorreta2": "Respiratório",
+        "incorreta3": "Reprodutor"
+    },
+    {
+        "imagem": "alcaparra",
+        "pergunta": "As alcaparras são estruturas florais, mas, o que elas são realmente?",
+        "correta": "Botões florais",
+        "incorreta1": "Pétalas",
+        "incorreta2": "Cálice",
+        "incorreta3": "Androceu e gineceu"
+    },
+    {
+        "imagem": "acafrao",
+        "pergunta": "O açafrão verdadeiro é constituído de partes específicas da flor. Que partes são essas?",
+        "correta": "Estiletes e estigmas ",
+        "incorreta1": "Pétalas",
+        "incorreta2": "Sépalas",
+        "incorreta3": "Estames"
+    },
+    {
+        "pergunta": "Geralmente consumimos as flores da couve-flor como alimento, mas, uma outra parte do vegetal que também pode ser comida pelos seres humanos é:",
+        "correta": "Folhas",
+        "incorreta1": "Raízes",
+        "incorreta2": "Fruto",
+        "incorreta3": "Semente"
+    },
+    {
+        "pergunta": "As flores e folhas dos brócolis são comestíveis. Mas, que nutrientes podemos obter quando comemos?",
+        "correta": "Fibras e ferro",
+        "incorreta1": "Água e gordura",
+        "incorreta2": "Colesterol e potássio",
+        "incorreta3": "Proteínas e alumínio"
+    }
+]

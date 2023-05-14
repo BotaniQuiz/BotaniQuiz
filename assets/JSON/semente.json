@@ -1,0 +1,110 @@
+[
+    {
+        "imagem": "soja",
+        "pergunta": "As sementes de soja são importantes para a economia de muitas cidades no Brasil e delas se extrai um importante produto:",
+        "correta": "Óleo",
+        "incorreta1": "Amido",
+        "incorreta2": "Fibras",
+        "incorreta3": "Ferro"
+    },
+    {
+        "imagem": "cafe",
+        "pergunta": "As sementes do café são submetidas após a secagem a um processo que garante os aromas, sabores e cor característica da bebida. Qual o nome deste processo?",
+        "correta": "Torrefação",
+        "incorreta1": "Grilagem",
+        "incorreta2": "Poda",
+        "incorreta3": "Raleio"
+    },
+    {
+        "pergunta": "Qual a principal função das sementes para as plantas?",
+        "correta": "Propagação da espécie",
+        "incorreta1": "Trocas gasosas",
+        "incorreta2": "Fotossíntese",
+        "incorreta3": "Condução de água e nutrientes"
+    },
+    {
+        "pergunta": "Que partes formam uma semente?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Embrião",
+        "incorreta2": "Cotilédone",
+        "incorreta3": "Tegumento"
+    },
+    {
+        "pergunta": "Quais alimentos abaixo são sementes?",
+        "correta": "Feijão e grão de bico",
+        "incorreta1": "Alface e agrião",
+        "incorreta2": "Abóbora e morango",
+        "incorreta3": "Alcaparra e palmito"
+    },
+    {
+        "pergunta": "Para que as sementes são usadas por seres humanos?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Alimentação",
+        "incorreta2": "Propagação de plantas",
+        "incorreta3": "Produção de óleo."
+    },
+    {
+        "imagem": "lentilha",
+        "pergunta": "As lentilhas são sementes comestíveis muito nutritivas. Qual a sua função para a planta?",
+        "correta": "Germinação ",
+        "incorreta1": "Absorção de água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Fotossíntese"
+    },
+    {
+        "imagem": "grao_bico",
+        "pergunta": "Os grãos de bico são sementes comestíveis muito nutritivas. Qual a sua função para a planta?",
+        "correta": "Germinação ",
+        "incorreta1": "Absorção de água e nutrientes",
+        "incorreta2": "Fixação da planta",
+        "incorreta3": "Troca gasosa"
+    },
+    {
+        "imagem": "amendoim",
+        "pergunta": "Sobre as sementes do amendoim, qual alternativa está correta?",
+        "correta": "Servem para armazenar oléos e são responsáveis pela germinação de uma nova planta ",
+        "incorreta1": "São ricas em açúcar e atuam na fixação da planta ",
+        "incorreta2": "São fonte de reserva de nutrientes para a planta adulta ",
+        "incorreta3": "Estão associadas à fotossíntese da planta"
+    },
+    {
+        "imagem": "feijao",
+        "pergunta": "Certamente você já fez a experiência de plantar uma semente de feijão em um copo plástico com algodão e pode perceber a facilidade e rapidez no desenvolvimento da planta. Já que o feijão se desenvolve tão rápido, por quê ele não brota na embalagem que compramos?",
+        "correta": "Porque o ambiente em que a semente está não tem umidade e calor necessário.",
+        "incorreta1": "Porque o feijão só germina no algodão ",
+        "incorreta2": "O grão de feijão é uma falsa semente ",
+        "incorreta3": "O feijão só germina se a semente se sentir amada"
+    },
+    {
+        "imagem": "fava",
+        "pergunta": "As sementes de favas são alimentos muito ricos e pertencem à mesma família que:",
+        "correta": "Feijões e soja",
+        "incorreta1": "Amendoim e arroz",
+        "incorreta2": "Milho e linhaça",
+        "incorreta3": "Lentilha e quinoa"
+    },
+    {
+        "imagem": "ervilha",
+        "pergunta": "Como as sementes secas de ervilha são utilizadas?",
+        "correta": "Preparo de sopas e purês",
+        "incorreta1": "Produção de óleo",
+        "incorreta2": "Limpeza de ancanamentos",
+        "incorreta3": "Absorção de impurezas da água"
+    },
+    {
+        "imagem": "chia",
+        "pergunta": "As sementes de chia são nutritivas e ricas em mucilagens que ajudam o funcionamento de que sistema do corpo humano?",
+        "correta": "Digestório",
+        "incorreta1": "Urinário",
+        "incorreta2": "Respiratório",
+        "incorreta3": "Reprodutor"
+    },
+    {
+        "imagem": "linhaca_dourada",
+        "pergunta": "Sementes de linhaça são um alimento nutritivo e são fonte importante de um produto usado em diversas indústrias. Qual é esse produto?",
+        "correta": "Óleo",
+        "incorreta1": "Corante",
+        "incorreta2": "Fibras",
+        "incorreta3": "Amido"
+    }
+]

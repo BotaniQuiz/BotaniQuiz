@@ -1,0 +1,95 @@
+[
+    {
+
+        "pergunta": "Quando inicia a germinação de uma semente, qual a primeira parte emerge?",
+        "correta": "Raiz primária",
+        "incorreta1": "Caule",
+        "incorreta2": "Folha.",
+        "incorreta3": "Flor"
+    },
+    {
+        "pergunta": "O sistema condutor está presente em que partes do vegetal ?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Raiz e caule",
+        "incorreta2": "Folhas e Flores",
+        "incorreta3": "Frutos e sementes."
+    },
+    {
+        "pergunta": "Que relações os insetos podem ter com as plantas?",
+        "correta": "Todas as respostas estão corretas",
+        "incorreta1": "Polinização",
+        "incorreta2": "Herbivoria",
+        "incorreta3": "Formação de galhas."
+    },
+    {
+        "pergunta": "Os palmitos são obtidos de que parte das palmeiras?",
+        "correta": "Região meristemática do caule",
+        "incorreta1": "Raiz fasciculada",
+        "incorreta2": "Folhas.",
+        "incorreta3": "Frutos e sementes"
+    },
+    {
+        "imagem": "canela",
+        "pergunta": "De que parte da planta é retirada a canela que utilizamos na culiária, na medicina, na cosmetologia e até na agricultura (no controle de pragas)?",
+        "correta": "Caule ",
+        "incorreta1": "Raiz ",
+        "incorreta2": "Fruto ",
+        "incorreta3": "Semente "
+    },
+    {
+        "imagem": "algodao",
+        "pergunta": "Muitos produtos que usamos no nosso cotidiano são feitos 100% de algodão (vestuário, toalhas de banho) ou de boa parte dele (hastes flexíveis, papel, máscaras). Essa fibra é natural de uma planta, o algodoeiro, que parte da planta é?",
+        "correta": "Tricomas ",
+        "incorreta1": "Semente ",
+        "incorreta2": "Fruto ",
+        "incorreta3": "Flor "
+    },
+    {
+        "imagem": "milho_verde",
+        "pergunta": "Por que quando comemos milho eles saem 'inteiros' nas nossas fezes?",
+        "correta": "O pericarpo é rico em fibras (celulose) e nosso organismo não possui enzimas capaz de digeri-lo",
+        "incorreta1": "Porque não mastigamos direito",
+        "incorreta2": "O milho não foi feito para humanos comerem",
+        "incorreta3": "Por não ser cozido corretamente "
+    },
+    {
+        "imagem": "baunilha",
+        "pergunta": "De que planta é extraída a baunilha?",
+        "correta": "Orquídea ",
+        "incorreta1": "Bromélia ",
+        "incorreta2": "Cipó",
+        "incorreta3": "Cítrico "
+    },
+    {
+        "imagem": "aspargo",
+        "pergunta": "Aspargos são considerados um alimento muito nutritivo e saboroso. Que parte da planta forma os aspargos?",
+        "correta": "Ramos jovens em desenvolvimento",
+        "incorreta1": "Raízes",
+        "incorreta2": "Folhas",
+        "incorreta3": "Sementes"
+    },
+    {
+        "imagem": "broto_bambu",
+        "pergunta": "Brotos de bambu são considerados um alimento muito nutritivo e saboroso e fazem parte da culinária de diferentes países asiáticos. Que parte da planta forma os brotos de bambu?",
+        "correta": "Ramos jovens em desenvolvimento",
+        "incorreta1": "Raízes",
+        "incorreta2": "Folhas",
+        "incorreta3": "Sementes"
+    },
+    {
+        "imagem": "palmito",
+        "pergunta": "Os palmitos são originados a partir de palmeiras como jussara, pupunha e açaí. Que parte da palmeira é utilizada para obtenção do palmito?",
+        "correta": "Zona meristemática (Meristema apical) ",
+        "incorreta1": "Raízes",
+        "incorreta2": "Folhas",
+        "incorreta3": "Flores"
+    },
+    {
+        "imagem": "broto_alfafa",
+        "pergunta": "O que são brotos de alfafa?",
+        "correta": "Plantas recém germinadas",
+        "incorreta1": "Frutos",
+        "incorreta2": "Sementes",
+        "incorreta3": "Ramos"
+    }
+]
